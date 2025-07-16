@@ -57,5 +57,5 @@ The dataset used is `nobel_prize_data.csv`, which includes information about:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/nobel-prize-data-analysis.git
+   git clone https://github.com/abubakkarsiddique584/nobel-prize-data-analysis.git
    cd nobel-prize-data-analysis
